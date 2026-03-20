@@ -25,6 +25,7 @@ This lab focuses on analyzing a sales dataset using Python in Jupyter Notebook. 
 - Scaling helps normalize the dataset
 
 ### Files Included
-MSCS_634_Lab_1.ipynb
+
+- MSCS_634_Lab_1.ipynb
 - Lab1.ipynb (Jupyter Notebook)
 - README.md
